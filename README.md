@@ -1,0 +1,1 @@
+# ransomware utilizando python
