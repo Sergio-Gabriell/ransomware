@@ -8,7 +8,7 @@ Como Começar 🚀
 
 Siga estes passos para configurar e executar o projeto localmente:
 
-1. Clonar o repositório 
+Clonar o repositório 
 
 git clone https://github.com/Sergio-Gabriell/ransomware
 
