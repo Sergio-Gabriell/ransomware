@@ -1,13 +1,14 @@
-🛡️ Ransomware utilizando Python
-<break> <break>
-🎓 Sobre o Projeto
+Ransomware utilizando Python 🛡️
+<br/></br>
+Sobre o Projeto 🎓
 
 Realizei um estudo sobre ransomware em ambientes controlados, para entender como os criminosos cibernéticos criam e distribuem malware de ransomware. Como parte desse estudo, desenvolvi um ransomware em Python, que foi usado apenas para fins de pesquisa e estudo. O objetivo era entender as táticas usadas pelos criminosos cibernéticos e desenvolver maneiras de prevenção e detecção dessas ameaças.
-🚀 Como Começar
+
+Como Começar 🚀
 
 Siga estes passos para configurar e executar o projeto localmente:
 
-1. Clonar o repositório
+1. Clonar o repositório 
 
 git clone https://github.com/Sergio-Gabriell/ransomware
 
